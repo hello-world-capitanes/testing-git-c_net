@@ -4,3 +4,6 @@ Listado alumnos curso:
  - Óscar Mesa Martín
  - Yago Mosquera 
  - Andrea Cardenal
+ - Andrés
+- Jorge
+
