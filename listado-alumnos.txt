@@ -1,2 +1,10 @@
 Listado alumnos curso:
 
+ - Daniel Arévalo
+ - Óscar Mesa Martín
+ - Sergio Claver
+ - Yago Mosquera 
+ - Andrea Cardenal
+ - Andrés
+- Jorge
+- Miguel
