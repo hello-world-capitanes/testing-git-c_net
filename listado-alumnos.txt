@@ -1,4 +1,6 @@
 Listado alumnos curso:
 
- - Andrés
  - Daniel Arévalo
+ - Óscar Mesa Martín
+ - Yago Mosquera 
+ - Andrés
