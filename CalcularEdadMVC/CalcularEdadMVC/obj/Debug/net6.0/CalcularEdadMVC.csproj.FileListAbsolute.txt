@@ -1,0 +1,14 @@
+C:\Users\andrea.cardenal\source\repos\CalcularEdadMVC\CalcularEdadMVC\bin\Debug\net6.0\CalcularEdadMVC.exe
+C:\Users\andrea.cardenal\source\repos\CalcularEdadMVC\CalcularEdadMVC\bin\Debug\net6.0\CalcularEdadMVC.deps.json
+C:\Users\andrea.cardenal\source\repos\CalcularEdadMVC\CalcularEdadMVC\bin\Debug\net6.0\CalcularEdadMVC.runtimeconfig.json
+C:\Users\andrea.cardenal\source\repos\CalcularEdadMVC\CalcularEdadMVC\bin\Debug\net6.0\CalcularEdadMVC.dll
+C:\Users\andrea.cardenal\source\repos\CalcularEdadMVC\CalcularEdadMVC\bin\Debug\net6.0\CalcularEdadMVC.pdb
+C:\Users\andrea.cardenal\source\repos\CalcularEdadMVC\CalcularEdadMVC\obj\Debug\net6.0\CalcularEdadMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrea.cardenal\source\repos\CalcularEdadMVC\CalcularEdadMVC\obj\Debug\net6.0\CalcularEdadMVC.AssemblyInfoInputs.cache
+C:\Users\andrea.cardenal\source\repos\CalcularEdadMVC\CalcularEdadMVC\obj\Debug\net6.0\CalcularEdadMVC.AssemblyInfo.cs
+C:\Users\andrea.cardenal\source\repos\CalcularEdadMVC\CalcularEdadMVC\obj\Debug\net6.0\CalcularEdadMVC.csproj.CoreCompileInputs.cache
+C:\Users\andrea.cardenal\source\repos\CalcularEdadMVC\CalcularEdadMVC\obj\Debug\net6.0\CalcularEdadMVC.dll
+C:\Users\andrea.cardenal\source\repos\CalcularEdadMVC\CalcularEdadMVC\obj\Debug\net6.0\refint\CalcularEdadMVC.dll
+C:\Users\andrea.cardenal\source\repos\CalcularEdadMVC\CalcularEdadMVC\obj\Debug\net6.0\CalcularEdadMVC.pdb
+C:\Users\andrea.cardenal\source\repos\CalcularEdadMVC\CalcularEdadMVC\obj\Debug\net6.0\CalcularEdadMVC.genruntimeconfig.cache
+C:\Users\andrea.cardenal\source\repos\CalcularEdadMVC\CalcularEdadMVC\obj\Debug\net6.0\ref\CalcularEdadMVC.dll
